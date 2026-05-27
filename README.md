@@ -7,15 +7,14 @@ A simple stopwatch application built using HTML, CSS, and JavaScript.
 - Start the stopwatch
 - Stop/Pause the timer
 - Reset the timer
-- Millisecond precision
 - Clean and minimal UI
 
 ---
 
 ## Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
